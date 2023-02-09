@@ -57,6 +57,16 @@
     position: absolute;
     margin-top: 20px;
 }
+
+.input {
+    margin-left: 980px;
+    display: flex;
+    position: absolute;
+    margin-top: 15px;
+    background: #FFFFFF;
+    border: none;
+    border-radius: 63px;
+}
 /* a {
     display: flex;
     width: 100px;
