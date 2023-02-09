@@ -66,29 +66,7 @@
     background: #FFFFFF;
     border: none;
     border-radius: 63px;
+    width: 200px;
+    height: 32px;
+    font-size: 15px;
 }
-/* a {
-    display: flex;
-    width: 100px;
-}
-a:link {  color: white;
-    font-family: 'DM Sans', sans-serif;
-    text-decoration: none;
-}
-
-
-a:visited { color: white;
-    font-family: 'DM Sans', sans-serif;
-    text-decoration: none;
-}
-
-a:hover { color: white;
-    font-family: 'DM Sans', sans-serif;
-    text-decoration: none;
-}
-
-
-a:active { color: white;
-    font-family: 'DM Sans', sans-serif;
-    text-decoration: none;
-} */
