@@ -17,6 +17,7 @@
     width: 150px;
     padding-top: 10px;
     display: flex;
+    position: absolute;
 }
 
 .navlinks {
@@ -24,6 +25,7 @@
     width: 400px;
     color: white;
     font-family: 'DM Sans', sans-serif;
+    margin-left: 400px;
 }
 
 /* a {
