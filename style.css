@@ -20,14 +20,41 @@
     position: absolute;
 }
 
-.navlinks {
+.nav {
     display: flex;
-    width: 400px;
+    width: 80px;
     color: white;
     font-family: 'DM Sans', sans-serif;
     margin-left: 400px;
 }
 
+.home {
+    margin-left: 500px;
+    display: flex;
+    position: absolute;
+    margin-top: 20px;
+}
+
+.about {
+    margin-left: 600px;
+    display: flex;
+    position: absolute;
+    margin-top: 20px;
+}
+
+.info {
+    margin-left: 700px;
+    display: flex;
+    position: absolute;
+    margin-top: 20px;
+}
+
+.more {
+    margin-left: 800px;
+    display: flex;
+    position: absolute;
+    margin-top: 20px;
+}
 /* a {
     display: flex;
     width: 100px;
