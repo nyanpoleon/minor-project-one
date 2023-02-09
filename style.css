@@ -69,7 +69,14 @@
     width: 200px;
     height: 32px;
     font-size: 15px;
+    color: #000000;
+    padding-left: 8px;
+    
 
+}
+
+input::-webkit-input-placeholder {
+    text-align: left;
 }
 
 .searchicon {
@@ -78,4 +85,10 @@
     width: 20px;
     margin-left: 1152px;
     margin-top: 21px;
+}
+
+.image {
+    display: flex;
+    margin-top: 100px;
+    margin-left: 50px;
 }
