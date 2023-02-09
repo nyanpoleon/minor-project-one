@@ -18,14 +18,16 @@
     padding-top: 10px;
     display: flex;
     position: absolute;
+    margin-left: 20px;
 }
 
 .nav {
     display: flex;
-    width: 80px;
+    width: 100px;
     color: white;
     font-family: 'DM Sans', sans-serif;
-    margin-left: 400px;
+    margin-left: 300px;
+    font-size: 20px;
 }
 
 .home {
@@ -43,14 +45,14 @@
 }
 
 .info {
-    margin-left: 700px;
+    margin-left: 730px;
     display: flex;
     position: absolute;
     margin-top: 20px;
 }
 
 .more {
-    margin-left: 800px;
+    margin-left: 880px;
     display: flex;
     position: absolute;
     margin-top: 20px;
