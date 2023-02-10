@@ -133,15 +133,27 @@ input::-webkit-input-placeholder {
     
 }
 
-.socials {
+/* .socials {
     display: flex;
     flex-direction: column;
     position: fixed;
     padding-left: 1450px;
     padding-top: 10px;
+    
 }
 
 .social {
+    
+    width: 60px;
+} */
+
+.socials {
+    padding-top: 100px;
+    position: sticky;
+    top: 0;
+}
+.social {
+    
     width: 60px;
 }
 
@@ -280,11 +292,7 @@ h1 {
     padding-left: 50px;
     padding-top: 40px;
 }
-/* p {
-    
-    padding-left: 50px;
-    font-family: 'Roboto', sans-serif;
-} */
+
 
 .flexbox-6 {
     display: flex;
