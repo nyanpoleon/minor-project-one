@@ -88,7 +88,7 @@ input::-webkit-input-placeholder {
 }
 
 
-.flexbox {
+.flexbox-1 {
     display: flex;
     width: 1728px;
 }
@@ -103,8 +103,19 @@ input::-webkit-input-placeholder {
 
 .textbox {
     display: flex;
-    border: solid black;
-    width: 500px;
-    height: 500px;
+    background-color: #E5D8FF;
+    border: none;
+    border-radius: 20px;
+    padding-left: 20px;
+    padding-top: 30px;
+    padding-right: 30px;
+    width: 770px;
+    height: 477px;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 25px;
+    color: #6F7373;
+    line-height: 178.7%;
+    margin-top: 126px;
+    margin-left: 140px;
     
 }
