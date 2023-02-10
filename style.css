@@ -148,15 +148,34 @@ input::-webkit-input-placeholder {
 
 .flexbox-2 {
     display: flex;
+    margin-left: 10px;
+    margin-right: 100px;
 }
 
 .box {
     display: flex;
-    border: #000000 solid;
-    width: 200px;
+    border: none;
+    width: 300px;
     font-family: 'DM Sans', sans-serif;
     font-weight: bold;
-    margin-left: 120px;
+    margin-left: 60px;
     line-height: 178.7%;
+    box-shadow: 0px 9px 31px rgba(0, 0, 0, 0.4);
+    border-radius: 11px;
+    padding-left: 10px;
+    color: #FFFFFF;
 
+}
+
+.box.one {
+    background: #929DFF;
+}
+.box.two {
+    background: #734CF2;
+}
+.box.three {
+    background: #D288FF;
+}
+.box.four{
+    background: #000000;
 }
