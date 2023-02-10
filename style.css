@@ -218,3 +218,12 @@ input::-webkit-input-placeholder {
     margin-bottom:60px;
 }
 
+.flexbox-5 {
+    background-color: white;
+    width: 810px;
+    height: 535px;
+    margin-left: 50px;
+    margin-top: 30px;
+    margin-bottom:30px;
+    border-radius: 19px;
+}
