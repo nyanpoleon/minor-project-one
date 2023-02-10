@@ -219,6 +219,8 @@ input::-webkit-input-placeholder {
 
 .flexbox-5 {
     background-color: white;
+    display: flex;
+    flex-direction: column;
     width: 810px;
     height: 540px;
     margin-left: 50px;
@@ -278,8 +280,37 @@ h1 {
     padding-left: 50px;
     padding-top: 40px;
 }
-p {
+/* p {
     
     padding-left: 50px;
     font-family: 'Roboto', sans-serif;
+} */
+
+.flexbox-6 {
+    display: flex;
+    flex-direction: row;
+    width: 700px;
+}
+
+.textflex1 {
+    padding-left: 70px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 33px;
+    letter-spacing: 0.105em;
+
+    color: #04285A;
+
+}
+
+.textflex2 {
+    padding-left: 70px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 33px;
+    letter-spacing: 0.105em;
+
+    color: #04285A;
 }
