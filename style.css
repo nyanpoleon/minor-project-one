@@ -268,7 +268,18 @@ input::-webkit-input-placeholder {
     border-radius: 22px;
     color: #FFFFFF;
 }
-
-li {
-    list-style-type: none;
+h1 {
+    font-family: 'DM Sans', sans-serif;
+    color: #04285A;
+    font-weight: 700;
+    font-size: 38px;
+    line-height: 46px;
+    letter-spacing: 0.105em;
+    padding-left: 50px;
+    padding-top: 40px;
+}
+p {
+    
+    padding-left: 50px;
+    font-family: 'Roboto', sans-serif;
 }
