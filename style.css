@@ -1,5 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=DM+Sans&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;700&display=swap');
 
 .navbar {
     background-color: #6F6AF7;
@@ -145,4 +144,19 @@ input::-webkit-input-placeholder {
 
 .social {
     width: 60px;
+}
+
+.flexbox-2 {
+    display: flex;
+}
+
+.box {
+    display: flex;
+    border: #000000 solid;
+    width: 200px;
+    font-family: 'DM Sans', sans-serif;
+    font-weight: bold;
+    margin-left: 120px;
+    line-height: 178.7%;
+
 }
