@@ -57,6 +57,11 @@
     position: absolute;
     margin-top: 20px;
 }
+.downarrow {
+    width: 10px;
+    padding-left: 3px; 
+
+}
 
 .input {
     margin-left: 980px;
