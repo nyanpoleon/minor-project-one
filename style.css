@@ -2,8 +2,10 @@
 .navbar {
     background-color: #6F6AF7;
     height: 60px;
+    width: 1700px;
     padding: 10px;
     align-items: center;
+    position: fixed;
 }
 
 .dappr { 
@@ -148,9 +150,12 @@ input::-webkit-input-placeholder {
 } */
 
 .socials {
-    padding-top: 100px;
+    display: flex;
     position: sticky;
-    top: 0;
+    top: 82px;
+    margin-top: 200px;
+    float: right;
+    flex-direction: column;
 }
 .social {
     
