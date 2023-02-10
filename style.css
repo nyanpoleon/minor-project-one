@@ -63,6 +63,12 @@
 
 }
 
+.hamburger {
+    width: 40px;
+    margin-top: 15px;
+    margin-left: 1430px;
+}
+
 .input {
     margin-left: 980px;
     display: flex;
