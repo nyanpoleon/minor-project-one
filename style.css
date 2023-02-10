@@ -98,10 +98,13 @@ input::-webkit-input-placeholder {
     margin-top: 21px;
 }
 
+.container {
+    display: flex;
+}
 
 .flexbox-1 {
     display: flex;
-    width: 1728px;
+    width: 1628px;
 }
 
 
@@ -130,4 +133,16 @@ input::-webkit-input-placeholder {
     margin-left: 140px;
     box-shadow: inset 3px 5px 27px rgba(0, 0, 0, 0.175);
     
+}
+
+.socials {
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+    padding-left: 1450px;
+    padding-top: 10px;
+}
+
+.social {
+    width: 60px;
 }
